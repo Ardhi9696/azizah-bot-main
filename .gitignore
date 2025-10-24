@@ -1,0 +1,17 @@
+# 🔒 Konfigurasi rahasia
+.env
+
+# 🧪 Debug output
+debug_*.html
+
+# 🗑️ File log
+logs/log.txt.*
+*.log
+logs/log.txt
+
+# 🐍 Python cache
+__pycache__/
+*.pyc
+
+# 💻 cache
+.DS_Store
